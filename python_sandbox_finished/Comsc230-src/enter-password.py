@@ -3,7 +3,7 @@
 # Enter your password program
 
 password = "default"
-while password != "rwucomsc230":
+while password != "swordfish":
      print("Enter your password: ")
      password = input()
 print("Success!")

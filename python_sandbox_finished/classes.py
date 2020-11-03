@@ -59,5 +59,6 @@ janet.print_encap() #Changing the variable for brad doesn't affect janets variab
 janet._private = 600
 janet.print_encap()
 
+
 #Similary changing janet's doesn't affect brad's variable.
 brad.print_encap()
