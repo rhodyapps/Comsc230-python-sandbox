@@ -3,7 +3,7 @@ from pymongo import MongoClient
 
 
 # Making Connection 
-myclient = MongoClient("mongodb+srv://<dbuser1:password>@cluster0.esvhs.gcp.mongodb.net/northwind") 
+myclient = MongoClient("mongodb+srv://dbuser2:TrXgPr7AZ6tmBBia@cluster0.esvhs.gcp.mongodb.net/northwind") 
 
 # database 
 db = myclient["northwind"] 
